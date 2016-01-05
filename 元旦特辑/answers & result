@@ -1,0 +1,63 @@
+“这是一道难题”元旦特辑已经结束辣～～下面放出三道题的原文和所使用的解密方式～～
+
+
+第一题：
+原文：
+Answer：
+1. What is the room number of HEU ACM team's lab?
+2. In which year, HEU held the ACM/ICPC World Final?
+3. What is the URL of HEU's Online Judge?
+
+Please reply the answers on WeChat. 
+Hint of the other problems:
+Picture, Hash & Zip file
+
+答案：
+573 2010 acm.hrbeu.edu.cn
+
+解密方式：
+简单的移位密码或恺撒密码，做出这道题的同学有(按回答题目的时间顺序)：宋旭、早起搬砖、露儿(´･ω･`)喵、tinyroach、（蓝狸的、初心）、蒋润宇，总计6人。
+这里要说明的是校ACM队实验室的位置在21B 573室，就是5楼东侧的角落里，有个大展板的那个屋。21A 427机房只是举办培训或者比赛时才使用，所以答案应为573而不是427～～
+
+
+第二题：
+原文：
+Answer：
+1. What is the room number of HEU ACM team's lab?
+2. What is the birthday of Alan Mathison Turing?(Format like YYYY/MM/DD)
+3. What name is the first electronic computer?
+
+Please reply the answers on WeChat. 
+Hint of the other problems:
+Caesar, hash&zip file
+
+答案：
+573 1912/06/23 ENIAC
+
+解密方式：
+首先将原文作一次base64解码，之后把解码的数据另存为png文件，图片中显示即为问题。做出这道题的同学有：露儿(´･ω･`)喵
+
+
+第三题：
+原文：
+Answer：
+1. What is the room number of HEU ACM team's lab?
+2. How many grams of soul?
+3. What is the URL of 2016's Winter Programer Training registration website?
+
+Please reply the answers on WeChat. 
+Hint of the other problems:
+Caesar, Picture
+
+答案：
+573 21 www.myvjudge.cn
+
+解密方式：
+这道题的解密方式略微复杂，首先根据前两题的原文中的提示猜测这应该是压缩文件，之后通过密码第一行的三段md5值在网上逆推回原文分别是z、i、p，表明压缩文件应是zip格式。然后观察其余密文应为base64编码，故通过base64解码其余密文，所得内容另存为zip文件，解压后即为原文的问题。做出这道题的同学有：露儿(´･ω･`)喵
+
+露儿(´･ω･`)喵同学成功解决了三道问题，获得本次活动的奖品《思考的乐趣:Matrix67数学笔记》图书一本，向TA表示祝贺～～
+有何不可同学实际解决了两道问题，但两道问题中的第一个小问题答成了427，回答错误。由于TA是除了获奖者之外唯一一个解出了第二题的同学（虽然错了一小问），故奖励圣诞大苹果一个～～
+请两位同学及时在微信公众号中与工作人员联系，商讨发奖事宜。
+
+一月份的第一期“这是一道难题”活动即将到来，丰厚大奖等你来拿，大家准备好了吗？？
+
